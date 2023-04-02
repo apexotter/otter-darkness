@@ -1,8 +1,8 @@
 {
   "name": "otter-darkness",
   "displayName": "Otter Darkness",
-  "description": "Based on Atom One Dark with improved comment readability and other minor color adjustments. WIP.",
-  "version": "1.0.2",
+  "description": "Based on Atom One Dark with improved comment readability and other minor color adjustments, primarily for Python syntax. WIP.",
+  "version": "1.0.4",
   "publisher": "ApexOtter",
   "repository": {
     "type": "git",
