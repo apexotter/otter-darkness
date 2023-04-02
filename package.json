@@ -1,0 +1,31 @@
+{
+  "name": "otter-darkness",
+  "displayName": "Otter Darkness",
+  "description": "Based on Atom One Dark with improved comment readability and other minor color adjustments. WIP.",
+  "version": "1.0.2",
+  "publisher": "ApexOtter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apexotter/otter-darkness"
+},
+"engines": {
+  "vscode": "^1.12.0"
+},
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"otter",
+		"darkness",
+		"apexotter"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Otter Darkness",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Otter Darkness-color-theme.json"
+      }
+    ]
+  }
+}
